@@ -1,0 +1,14 @@
+# Core image processing and comparison
+Pillow>=10.0.0
+ImageHash>=4.3.1
+
+# GUI framework
+PySide6>=6.5.0
+
+# System utilities
+send2trash>=1.8.2
+psutil>=5.9.5  # For system resource monitoring and management
+
+# Optional - For development
+# numpy>=1.24.0  # Used by ImageHash internally
+# pytest>=7.3.1  # For running tests
