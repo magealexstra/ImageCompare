@@ -33,7 +33,7 @@ This application is specifically designed for Kubuntu Linux (KDE Plasma/Qt) and 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/ImageCompare.git
+   git clone https://github.com/magealexstra/ImageCompare.git
    cd ImageCompare
    ```
 
@@ -102,9 +102,10 @@ This application is specifically designed for Kubuntu Linux (KDE Plasma/Qt) and 
 
 ## Development
 
-Refer to `PO1.md` for the complete project plan and implementation status.
+This project follows modern Python development practices with a focus on code quality and maintainability. Contributions are welcome through pull requests.
 
 ## License
 
 [MIT License](LICENSE)
-# Last updated: Wed Apr  2 11:45:08 PM CDT 2025
+
+# Last updated: Wed Apr  2 11:51:00 PM CDT 2025
